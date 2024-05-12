@@ -1,4 +1,4 @@
-# exoplanets_fits
+# Approximate Fits of Exoplanet
 
 This repository contains a Python program created by three students from the Università degli Studi di Genova. It aims to perform a simple fit for the light curve of a planet studied using the transit method.
 
