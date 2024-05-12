@@ -6,6 +6,7 @@ The program initializes parameters using a smoothed version of the observation p
 
 Code created by:
 Fortuna F. - 
+Mongiardini P. -
 Russo S. -
 Vigneto A. - 
 University of Genoa (2024)
